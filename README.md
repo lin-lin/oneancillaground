@@ -7,11 +7,13 @@ Z. Ding, C.-F. Chen, L. Lin, Single-ancilla ground state preparation via Lindbla
 
 Three different models are simulated here:
 
-TFIM_4: Simulation_TFIM_4.ipynb
-TFIM_6: Simulation_TFIM_6.ipynb
-Hubbard_4: Simulation_Hubbard_4.ipynb
+TFIM_4: #Simulation_TFIM_4.ipynb
 
-The code of Lindblad simulation algorithm is in lindblad.py
+TFIM_6: #Simulation_TFIM_6.ipynb
+
+Hubbard_4: #Simulation_Hubbard_4.ipynb
+
+The code of Lindblad simulation algorithm is in #lindblad.py
 
 
 
