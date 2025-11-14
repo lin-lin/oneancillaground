@@ -1,19 +1,14 @@
 # oneancillaground
-One ancilla ground state preparation using Lindblad dynamics
+Ground-State Preparation with a Single Ancilla via Lindblad Dynamics
 
-Reference:
+This repository contains reference code for two related projects on dissipative ground-state preparation using a single ancilla qubit.
 
-Z. Ding, C.-F. Chen, L. Lin, Single-ancilla ground state preparation via Lindbladians https://arxiv.org/abs/2308.15676
+Folder PRR_2024 corresponds to the implementation in
+[1] Z. Ding, C.-F. Chen, L. Lin, Single-ancilla ground-state preparation via Lindbladians, Phys. Rev. Research 6, 033147 (2024).
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033147
 
-Three different models are simulated here:
-
-TFIM_4: _Simulation_TFIM_4.ipynb_
-
-TFIM_6: _Simulation_TFIM_6.ipynb_
-
-Hubbard_4: _Simulation_Hubbard_4.ipynb_
-
-The code of Lindblad simulation algorithm is in _lindblad.py_
-
+Folder PRX_2025 corresponds to the implementation in
+[2] Y. Zhan, Z. Ding, J. Huhn, J. Gray, J. Preskill, G. Chan, L. Lin, Rapid quantum ground state preparation via dissipative dynamics, arXiv:2503.15827 (2025).
+https://arxiv.org/abs/2503.15827
 
 
